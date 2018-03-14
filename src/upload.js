@@ -479,7 +479,7 @@ module.exports = function () {
         multiple: false,
         async: false,
         startOnSelect: true,
-        extensions: ['jpeg', 'jpg', 'png', 'gif'],
+        extensions: ['jpeg', 'jpg', 'png', 'gif','csv'],
         maxFiles: 4,
         maxFilesInProgress: 2,
         currentFiles: null,
